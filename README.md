@@ -5,7 +5,7 @@ O construtor de tutoriais é um projeto desenvolvido para auxiliar o D-LINCE a p
 -----COMO UTILIZAR-----
 1) O construtor é uma ferramenta produzida em HTML, executada via navegador
 2) Caso não tenha nenhum rascunho, **clique em adicionar nova seção e preencha os campos**
-3) Ao salvar o rascunho, produz-se um arquivo .json, que pode ser reaberto posteriormente
+3) Ao salvar o rascunho, produz-se um arquivo .json, que pode ser editado posteriormente
 4) **Ao clicar em gerar docx, gera-se um arquivo editável .docx**
    **OBS: O arquivo gerado segue o padrão ABNT, porém ainda é necessário aplicar formatações no arquivo, como enquadramento de imagens**
 5) Ao importar imagens, é possível editá-las dentro do construtor, bem como alterá-las
