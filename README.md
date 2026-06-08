@@ -34,7 +34,7 @@ Ferramenta standalone em HTML para criação de tutoriais técnicos no padrão A
 
 ## 2. Como abrir
 
-1. Baixe o arquivo `construtor_tutorial_v11.html`
+1. Baixe o arquivo `construtor_tutorial_v12.html`
 2. Abra-o diretamente no navegador (`Arquivo → Abrir` ou duplo clique)
 3. O construtor carrega imediatamente, sem servidor ou instalação
 
